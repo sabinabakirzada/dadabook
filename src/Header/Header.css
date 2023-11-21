@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+.nav__left__logo img {
+ width: 400px;
+ height: 80px;
+ 
+}
+.nav__right UL{
+    color:rgba(14, 14, 78, 0.81);
+    font-weight: 700;
+    font-size: 26px;
+    display: flex ;
+    list-style: none;
+    gap:40px;
+    cursor: pointer;
+}
